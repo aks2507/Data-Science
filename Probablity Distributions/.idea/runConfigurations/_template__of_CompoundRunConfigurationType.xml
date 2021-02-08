@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="CompoundRunConfigurationType">
+    <toRun name="main" type="PythonConfigurationType" />
+    <toRun name="binomial" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
