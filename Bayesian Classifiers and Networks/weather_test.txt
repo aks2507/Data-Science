@@ -1,0 +1,4 @@
+Outlook 	Temp 	Humidity 	Windy 	Play
+rainy       cool    normal       true    no
+sunny       hot     high         true    no
+overcast    mild    high         true   yes

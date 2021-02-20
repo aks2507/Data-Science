@@ -1,0 +1,32 @@
+Priori Values:  {'no': 0.2727272727272727, 'yes': 0.7272727272727273}
+Accuracy calculation on test data:
+Result: 
+no  ==>  0.017957351290684622
+yes  ==>  0.007457386363636364
+no
+Result: 
+no  ==>  0.21548821548821545
+yes  ==>  0.0017977627840909092
+no
+Result: 
+no  ==>  0.02693602693602693
+yes  ==>  0.028764204545454548
+yes
+3 3
+Accuracy: 100.0%
+Result: 
+no  ==>  0.1212121212121212
+yes  ==>  0.01278409090909091
+final classification of this sample is: no
+Result: 
+no  ==>  0.0101010101010101
+yes  ==>  0.0005326704545454545
+final classification of this sample is: no
+Result: 
+no  ==>  0.0202020202020202
+yes  ==>  0.005681818181818182
+final classification of this sample is: no
+Result: 
+no  ==>  0.0033670033670033664
+yes  ==>  0.019886363636363636
+final classification of this sample is: yes
